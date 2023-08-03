@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.main-heading {
+  color: #05acff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+.heading {
+  color: #f8fafc;
+  font-size: 28px;
+  font-family: 'Roboto';
+}
+.para {
+  color: #f1f5f9;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
